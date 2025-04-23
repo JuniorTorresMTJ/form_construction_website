@@ -51,7 +51,7 @@ const Contact = () => {
                     <h5 className="text-[22px] font-semibold uppercase  font-primary leading-none mb-2">
                       Phone
                     </h5>
-                    <p className="mb-4">Mon-Fri from 8am to 5pm.</p>
+                    <p className="mb-4">Mon-Sat from 7am to 6pm.</p>
                     <a
                       href="https://wa.me/353833131875"
                       target="_blank"
