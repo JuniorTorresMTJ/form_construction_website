@@ -4,7 +4,7 @@ import Link from "next/link";
 const socials = [
   {
     icon: "/icons/instagram.svg",
-    path: "https://www.instagram.com/gardenbuilder.ie/",
+    path: "https://www.instagram.com/form_construction_",
     alt: "Instagram",
   },
   {

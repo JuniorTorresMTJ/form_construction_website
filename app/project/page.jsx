@@ -4,16 +4,28 @@ import Image from "next/image";
 
 const serviceItems = [
   {
-    src: "/assets/img/services/hardscape-1.jpg",
-    alt: "Hardscape",
+    src: "/assets/img/projects/projects_1.jpg",
+    alt: "projects_1",
   },
   {
-    src: "/assets/img/services/softscape-2.jpg",
-    alt: "Softscape",
+    src: "/assets/img/projects/projects_2.jpg",
+    alt: "projects_2",
   },
   {
-    src: "/assets/img/services/features-1.jpg",
-    alt: "Features",
+    src: "/assets/img/projects/projects_3.jpg",
+    alt: "projects_3",
+  },
+  {
+    src: "/assets/img/projects/projects_4.jpg",
+    alt: "projects_4",
+  },
+  {
+    src: "/assets/img/projects/projects_5.jpg",
+    alt: "projects_5",
+  },
+  {
+    src: "/assets/img/projects/projects_6.jpg",
+    alt: "projects_6",
   },
 ];
 

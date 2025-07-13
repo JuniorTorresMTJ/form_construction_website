@@ -18,18 +18,18 @@ const Header = () => {
   const isHome = pathname === "/";
 
   const backgroundImage = isHome
-    ? "bg-[url('/Logo.gif')]"
-    : "bg-[url('/Logo_without.gif')]";
+    ? "bg-[url('/logo.png')]"
+    : "bg-[url('/logo.png')]";
 
   return (
     <header
-      className={`${backgroundImage} bg-center bg-no-repeat bg-cover lg:bg-contain h-[200px] w-full fixed top-0 left-0 z-50`}
+      className={`${backgroundImage} bg-center bg-white bg-no-repeat bg-contain h-[200px] w-full fixed top-0 left-0 z-50`}
     >
       <div className="container mx-auto h-full relative flex items-center justify-end px-4">
         {/* Logo clicável no centro */}
         <Link
           href="/"
-          className="absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[300px] h-[120px]"
+          className="absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[200px] h-[80px] lg:w-[300px] lg:h-[120px]"
         >
           <span className="block w-full h-full" />
         </Link>

@@ -6,7 +6,7 @@ import Link from "next/link";
 const heroItems = [
   {
     title: "What we do",
-    src: "/assets/img/hero/what.jpg",
+    src: "/assets/img/hero/what.png",
     alt: "What we do",
     path: "/what",
   },

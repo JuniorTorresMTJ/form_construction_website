@@ -16,8 +16,7 @@ const Contact = () => {
                 Contact Us
               </h4>
               <p className="mb-9">
-                Let’s bring your outdoor vision to life. Whether it’s a full
-                garden transformation or a small upgrade, we’re here to help.
+              Let’s build something great!
               </p>
               {/* contact items */}
               <div className="flex flex-col gap-[40px] mb-16">
@@ -31,14 +30,13 @@ const Contact = () => {
                       Chat to us
                     </h5>
                     <p className="mb-4">
-                      Our friendly team is happy to answer your questions and
-                      guide you through your landscaping journey.
+                    Whether it’s a new extension or a full period restoration, we’re here to make the process seamless. Contact us now to get started on your next project.
                     </p>
                     <a
-                      href="mailto:info@gardenbuilder.ie"
+                      href="mailto:info@formconstruction.ie"
                       className="text-primary hover:font-semibold transition-colors"
                     >
-                      info@gardenbuilder.ie
+                      info@formconstruction.ie
                     </a>
                   </div>
                 </div>
@@ -58,7 +56,7 @@ const Contact = () => {
                       rel="noopener noreferrer"
                       className=" text-primary  hover:font-semibold transition-colors"
                     >
-                      +353 83 313 1875
+                      +353 (083) 313 1875
                     </a>
                   </div>
                 </div>

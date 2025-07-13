@@ -4,26 +4,25 @@ import "./globals.css";
 import Header from "@/components/Header";
 
 export const metadata = {
-  title: "Garden Builder | Garden Design & Build",
+  title: "Form Construction | Extensions, Refurbishments, Period Restoration",
   description:
-    "Expert garden design and landscaping services. Garden Builder creates vibrant outdoor spaces with precision and care.",
+    "Expert construction services. Form Construction creates beautiful homes with precision and care.",
   keywords: [
-    "garden design",
-    "landscaping Dublin",
-    "outdoor kitchens",
-    "Garden Builder",
+    "extensions",
+    "refurbishments",
+    "period restoration",
   ],
   openGraph: {
-    title: "Garden Builder",
+    title: "Form Construction",
     description:
-      "Discover beautiful, functional gardens built with expert craftsmanship.",
-    url: "https://www.gardenbuilder.com",
+      "Expert construction services. Form Construction creates beautiful homes with precision and care.",
+    url: "https://www.formconstruction.ie",
     images: [
       {
-        url: "https://www.gardenbuilder.com/og-image.jpg",
+        url: "https://www.formconstruction.ie/og-image.jpg",
         width: 800,
         height: 600,
-        alt: "Garden Builder",
+        alt: "Form Construction",
       },
     ],
     locale: "en_IE",
@@ -31,10 +30,10 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Garden Builder | Garden Design & Build",
+    title: "Form Construction | Extensions, Refurbishments, Period Restoration",
     description:
-      "Discover beautiful, functional gardens built with expert craftsmanship.",
-    images: ["https://www.gardenbuilder.com/og-image.jpg"],
+      "Expert construction services. Form Construction creates beautiful homes with precision and care.",
+    images: ["https://www.formconstruction.ie/og-image.jpg"],
   },
 };
 
@@ -48,9 +47,9 @@ export default function RootLayout({ children }) {
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "LocalBusiness",
-              name: "Garden Builder",
-              url: "https://www.gardenbuilder.com",
-              telephone: "+1-555-000-0000",
+              name: "Form Construction",
+              url: "https://www.formconstruction.ie",
+              telephone: "+353 (083) 313 1875",
               address: {
                 "@type": "PostalAddress",
                 addressLocality: "Dublin",
