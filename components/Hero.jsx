@@ -32,12 +32,12 @@ const Hero = () => {
           <div key={index} className="text-center">
             <Link href={item.path} className="group block">
               {/* Título - mobile (em cima da imagem) */}
-              <h2 className="mb-4 font-bold tracking-[1.2px] text-lg font-primary uppercase transition-all duration-200 group-hover:text-accent block md:hidden">
+              <h2 className="mb-4 font-bold tracking-[1.2px] text-lg font-primary uppercase transition-all duration-200 group-hover:font-bold block md:hidden">
                 {item.title}
               </h2>
 
               {/* Imagem */}
-              <div className="w-full aspect-square relative overflow-hidden rounded-lg shadow-lg">
+              <div className="w-full aspect-square relative overflow-hidden">
                 <Image
                   src={item.src}
                   alt={item.alt}
@@ -49,7 +49,7 @@ const Hero = () => {
               </div>
 
               {/* Título - desktop (embaixo da imagem) */}
-              <h2 className="mt-4 font-bold tracking-[1.2px] text-lg font-primary uppercase transition-all duration-200 group-hover:text-accent hidden md:block">
+              <h2 className="mt-4 font-bold tracking-[1.2px] text-lg font-primary uppercase transition-all duration-200 group-hover:font-bold hidden md:block">
                 {item.title}
               </h2>
             </Link>
