@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const images = [
   "/assets/img/services/restoration/restoration-1.jpg",
-  "/assets/img/services/restoration/restoration-2.jpg",
+  "/assets/img/services/restoration/restoration-2.JPG",
   "/assets/img/services/restoration/restoration-3.jpg",
 ];
 

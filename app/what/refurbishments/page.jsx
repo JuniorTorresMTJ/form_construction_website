@@ -4,9 +4,9 @@ import Image from "next/image";
 
 const images = [
 
-  "/assets/img/services/refurbishments/refurbishments-1.jpg",
-  "/assets/img/services/refurbishments/refurbishments-2.jpg",
-  "/assets/img/services/refurbishments/refurbishments-3.jpg",
+  "/assets/img/services/refurbishments/refurbishments-1.JPG",
+  "/assets/img/services/refurbishments/refurbishments-2.JPG",
+  "/assets/img/services/refurbishments/refurbishments-3.JPG",
 ];
 
 export default function RefurbishmentsPage() {

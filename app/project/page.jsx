@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const serviceItems = [
   {
-    src: "/assets/img/projects/projects_1.jpg",
+    src: "/assets/img/projects/projects_1.JPG",
     alt: "projects_1",
   },
   {
@@ -12,19 +12,19 @@ const serviceItems = [
     alt: "projects_2",
   },
   {
-    src: "/assets/img/projects/projects_3.jpg",
+    src: "/assets/img/projects/projects_3.JPG",
     alt: "projects_3",
   },
   {
-    src: "/assets/img/projects/projects_4.jpg",
+    src: "/assets/img/projects/projects_4.JPG",
     alt: "projects_4",
   },
   {
-    src: "/assets/img/projects/projects_5.jpg",
+    src: "/assets/img/projects/projects_5.JPG",
     alt: "projects_5",
   },
   {
-    src: "/assets/img/projects/projects_6.jpg",
+    src: "/assets/img/projects/projects_6.JPG",
     alt: "projects_6",
   },
 ];

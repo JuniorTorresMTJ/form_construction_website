@@ -3,9 +3,9 @@
 import Image from "next/image";
 
 const images = [
-  "/assets/img/services/extensions/extensions-1.jpg",
-  "/assets/img/services/extensions/extensions-2.jpg",
-  "/assets/img/services/extensions/extensions-3.jpg",
+  "/assets/img/services/extensions/extensions-1.JPG",
+  "/assets/img/services/extensions/extensions-2.JPG",
+  "/assets/img/services/extensions/extensions-3.JPG",
 ];
 
 export default function ExtensionsPage() {

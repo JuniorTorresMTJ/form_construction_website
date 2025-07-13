@@ -6,19 +6,19 @@ import Link from "next/link";
 const serviceItems = [
   {
     title: "Extensions",
-    src: "/assets/img/services/extensions-1.jpg",
+    src: "/assets/img/services/extensions-1.JPG",
     alt: "Extensions",
     href: "/what/extensions",
   },
   {
     title: "Refurbishments",
-    src: "/assets/img/services/refurbishments-1.jpg",
+    src: "/assets/img/services/refurbishments-1.JPG",
     alt: "Refurbishments",
     href: "/what/refurbishments",
   },
   {
     title: "Period Restoration",
-    src: "/assets/img/services/restoration-1.jpg",
+    src: "/assets/img/services/restoration-1.JPG",
     alt: "Period Restoration",
     href: "/what/restoration",
   },
