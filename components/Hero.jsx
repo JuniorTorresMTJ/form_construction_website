@@ -12,13 +12,13 @@ const heroItems = [
   },
   {
     title: "Projects",
-    src: "/assets/img/hero/projects.JPG",
+    src: "/assets/img/hero/projects.jpg",
     alt: "Projects",
     path: "/project",
   },
   {
     title: "Contact",
-    src: "/assets/img/hero/contact.JPG",
+    src: "/assets/img/hero/contact.jpg",
     alt: "Contact",
     path: "/contact",
   },
