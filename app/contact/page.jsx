@@ -39,7 +39,7 @@ const Contact = () => {
                       jc@form-construction.com
                     </a>
                   </div>
-                </div>
+                </div> 
                 {/* contact item */}
                 <div className="flex items-start gap-[20px]">
                   <div>
