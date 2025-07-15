@@ -33,10 +33,10 @@ const Contact = () => {
                     Whether it’s a new extension or a full period restoration, we’re here to make the process seamless. Contact us now to get started on your next project.
                     </p>
                     <a
-                      href="mailto:info@formconstruction.ie"
+                      href="mailto:jc@form-construction.com"
                       className="text-primary hover:font-semibold transition-colors"
                     >
-                      info@formconstruction.ie
+                      jc@form-construction.com
                     </a>
                   </div>
                 </div>
